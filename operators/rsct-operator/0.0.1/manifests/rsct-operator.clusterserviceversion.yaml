@@ -22,6 +22,7 @@ metadata:
       ]
     capabilities: Basic Install
     categories: OpenShift Optional
+    containerImage: ghcr.io/ocp-power-automation/rsct-operator:latest
     createdAt: "2024-07-10T12:35:54Z"
     operators.operatorframework.io/builder: operator-sdk-v1.34.1
     operators.operatorframework.io/project_layout: go.kubebuilder.io/v4
